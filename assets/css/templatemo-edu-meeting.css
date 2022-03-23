@@ -945,7 +945,7 @@ section.upcoming-meetings .categories ul li a {
 }
 
 section.upcoming-meetings .categories ul li a:hover {
-  color: #a12c2f;
+  color: #213270;
 }
 
 section.upcoming-meetings .categories .main-button-red {
@@ -1300,7 +1300,14 @@ section.our-facts h2 {
   margin-left: 3px;
 }
 
+
 .count-digit {
+    margin: 5px 0px;
+    color: #f5a425;
+    font-weight: 700;
+    font-size: 36px;
+}
+.Angka {
     margin: 5px 0px;
     color: #f5a425;
     font-weight: 700;
@@ -1414,7 +1421,6 @@ section.contact-us #contact button:hover {
 }
 
 section.contact-us .right-info {
-  background-color: #a12c2f;
   border-radius: 20px;
   padding: 40px;
 }
